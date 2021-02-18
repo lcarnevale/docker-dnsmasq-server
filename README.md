@@ -15,6 +15,3 @@ docker run -ti \
 ```
 
 Use also the option `--restart unless-stopped` if you wanna make it able to start on boot.
-
-# Credits
-Thanks to [Ruan Bekker](https://ruan.dev/) for inspiring [here](https://sysadmins.co.za/setup-a-nfs-server-with-docker/) the simple management of NFS server. 
