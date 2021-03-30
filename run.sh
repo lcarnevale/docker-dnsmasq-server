@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "Running docker container ..."
-docker run -ti \
+docker run -d \
     -v /mnt/tftpboot:/var/lib/tftpboot \
     --network host \
     --cap-add=NET_ADMIN \
