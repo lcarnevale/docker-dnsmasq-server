@@ -1,4 +1,5 @@
 # PXE Project
+Simple docker container for starting a dnsmasq server for PXE purpose.
 
 ## How to Build it
 ```bash
